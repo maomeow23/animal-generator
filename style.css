@@ -1,0 +1,12 @@
+.one, .two, .three, .four, .five, .six, .seven, .eight, .nine, .ten, .eleven, .twelve, .thirteen, .fourteen, .fifteen, .sixteen{
+  display: none;
+}
+.animal{
+  display:none;
+}
+
+.item{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
